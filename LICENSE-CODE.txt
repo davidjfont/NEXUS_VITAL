@@ -1,0 +1,43 @@
+GNU Affero General Public License v3.0 (AGPL-3.0)
+NEXUS VITAL — Code License
+=========================
+
+Copyright (c) 2026
+David J. Font Barba
+
+This file applies to all source code and system structure contained
+in the NEXUS VITAL repository, including but not limited to:
+
+- HTML files
+- CSS files
+- directory structure
+- system architecture
+- templates and technical scaffolding
+
+License
+-------
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see:
+
+https://www.gnu.org/licenses/agpl-3.0.html
+
+Ethical Note
+------------
+
+Any use of this code in a networked service, platform, or derivative
+system must make the complete corresponding source code available
+under the same license.
+
+NEXUS VITAL is intended as ethical, transparent, and non-appropriable
+infrastructure.

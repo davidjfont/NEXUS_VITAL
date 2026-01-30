@@ -1,0 +1,6 @@
+# Nexus Vital - Git Ignore
+.gemini/
+.DS_Store
+*.log
+node_modules/
+temp/
